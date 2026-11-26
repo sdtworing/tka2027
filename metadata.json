@@ -1,0 +1,6 @@
+{
+  "name": "Simulasi CAT TKA SD/MI",
+  "description": "Aplikasi simulasi Computer Assisted Test (CAT) interaktif Tes Kemampuan Akademik (TKA) Matematika dan Bahasa Indonesia Jenjang SD/MI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
